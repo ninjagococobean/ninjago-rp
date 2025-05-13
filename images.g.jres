@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAz///AAAAAPD8/P8AAAAA//zP/xAAAPD/z9///wAA/////P//AAD//xEzABAAAP//ITIAEADwP/8jMAAAAP8z8zIwAwDw/wLwMAMzAPD/AfIAAzAA8P8C8QAwIjMQIgHyDzAiMvD/AhAPACMiAP8BIA8AIjIA8AIQDwAiAw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "shoadowgone"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA8P//AAD///////8AAPVVVf8v9EQA9PXx/yL0RAD0VfX/JPREAPT18f9E9EQA9VVV/0T0RAD/////REQAAAAAAPBERAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
