@@ -162,7 +162,6 @@ let mySprite10 = sprites.create(img`
     . . . . . 4 f f f f . . . . . . 
     `, SpriteKind.Player)
 controller.moveSprite(mySprite)
-controller.moveSprite(mySprite2)
 scene.setBackgroundImage(img`
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
